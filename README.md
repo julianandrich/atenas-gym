@@ -20,4 +20,4 @@ Para poder contribuir en nuestro proyecto recomendamos seguir los siguientes pas
 -   Generar una clave: "php artisan key:generate"
 -   Ejecutar las migraciones: "php artisan migrate --seed"
 
-<p align="center">Happy coding 💻</p>
+<p align="center">Happy coding ✌</p>
